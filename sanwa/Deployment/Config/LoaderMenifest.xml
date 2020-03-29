@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gsmanifest version="1.0">
+    <loader uuid="{1D2DF83A-32C9-4b01-9033-32E1F35337B1}" version="1.0.972.345" oemversion="1.0.1129.17">
+    <options>
+	<OEMInfo CompanyID="" ProductName="SmartDataLink"></OEMInfo>  
+    </options>      
+    </loader>
+</gsmanifest>
